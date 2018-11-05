@@ -7,7 +7,7 @@
 /* --> */final static int SERVER_PORT_2_1 = 1788;                        // port for socket connection over WIFI phone <--> laptop
 /* --> */final static int SERVER_PORT_2_2 = 1789;                        // port for socket connection over WIFI phone <--> laptop
 /* --> */final static int Watches = 2;
-/* --> */boolean useServer = true;                                       // set to true if you are / want to be connected over WIFI
+/* --> */boolean useServer = false;                                       // set to true if you are / want to be connected over WIFI
 /* --> */boolean withWatch = useServer;                                       // false for target testing
 
 ///////////////////* OBJECTS AND THREADS */////////////////////////////////////////////////

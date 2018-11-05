@@ -257,7 +257,7 @@ void applyScreenSize() {
   userTitleSize = W/56;
 
   /// MENU 2
-  NR_SERIES = 4;
+  NR_SERIES = 6;
 
   distLeft = 0.06*H;
   distSerie = 0.01*H;

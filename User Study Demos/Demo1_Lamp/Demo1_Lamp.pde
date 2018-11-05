@@ -11,9 +11,9 @@
 /* --> */final static int SERVER_PORT_2_2 = 1789;                        // port for socket connection over WIFI phone <--> laptop
 /* --> */final static int Watches = 2;
 /* --> */final static int num_targets = 6;                               // amount of current targets
-/* --> */boolean useServer = true;                                       // set to true if you are / want to be connected over WIFI
-/* --> */boolean useHUE = true;                                       // set to true if you are / want to be connected over WIFI
-/* --> */boolean withWatch = true;                                       // false for target testing
+/* --> */boolean useServer = false;                                       // set to true if you are / want to be connected over WIFI
+/* --> */boolean useHUE = false;                                       // set to true if you are / want to be connected over WIFI
+/* --> */boolean withWatch = false;                                       // false for target testing
 /* --> */int[][] HUES = {                     // Philips HUE lights to be used 
 /* --> */  {1, 50, 255, 0, 0}                 // Respectively the Lights ID,  HUE, SATURATION and BRIGHTNESS
 /* --> */  //{2, 50, 255, 0, 0},              // add more if wanted. Do adjust the 'act upon winner' section to get envisioned interaction

@@ -144,7 +144,7 @@ void drawQuestion_part2(int nr, boolean result) {
 
           String percentage = (int)(perc[i]*max/sum*100) + "%";
           textAlign(CENTER, CENTER);        
-          textSize(answerSize*.7);
+          textSize(answerSize);
           fill(110, animation/50*255);
           text(percentage, Q1_topLeftX-.9*Q1_targetSize, Q1_topLeftY+(i*Q1_targetDist)-.2*textAscent());
 
@@ -159,7 +159,7 @@ void drawQuestion_part2(int nr, boolean result) {
         if (begin_question || result) {
 
           textAlign(LEFT, CENTER);
-          textSize(answerSize);
+          textSize(answerSize*0.7);
           fill(textfill);
           char first = answers1[i].charAt(0);        
           text(answers1[i], Q1_topLeftX-(textWidth(first)/2), Q1_topLeftY+(i*Q1_targetDist)-.2*textAscent());
@@ -413,7 +413,7 @@ void applyScreenSize() {
   questionNrSize = .056*H;
   questionX = .535*H;
   questionY = .10*H;
-  questionSize = .045*H;
+  questionSize = .035*H;
   answerSize = .03*H;
   answerSize2 = .04*H;
 
