@@ -43,7 +43,7 @@ Alternatively, choose IP addresses and alter the Processing, Arduino and Android
 
 ## Elaborate Setup the hardware for the demo
 
-![Scheme](/Interactive Lights/Images/Illustrations-03.png)
+![Scheme](/Interactive%20Lights/Images/Illustrations-03.png)
 > Figure: The Android smartwatch – running a custom app for Android Wear 2.0 – continuously sends ‘yaw’ and ‘pitch’ data (i.e. movement data) to the Raspberry PI over Wi-Fi. The raspberry continuously simulates the lights and states, and send the appropriate LED settings at 40Hz over Wi-Fi to the individual lights, which will set the LEDs accordingly. The Raspberry PI correlates the incoming movement data and act upon interaction by changing the simulated states, which in turn is communicated to the lights.
 
 1. Use a dedicated router for a local network
@@ -61,7 +61,7 @@ Alternatively, choose IP addresses and alter the Processing, Arduino and Android
 7. The Android Watch only sends motions data. The lamps only receive instructions. The Processing on the Raspberry / Server computer does all the calculations and simualations. Look there for tweaking and such.
 
 Current Implementations of Interactions:
-![Interactions](/Interactive Lights/Images/Illustrations-06.png)
+![Interactions](/Interactive%20Lights/Images/Illustrations-06.png)
 > Figure: If no particular light has been selected, all lights show their ‘initial’ target. Each target that is displayed differs in phase which allows for distinction based on movement. For clarity, only one module of the standing (middle) and ceiling light (right) is shown. Take note that by design, the standing light (middle) has a ‘virtual’ mirrored target for each of its displayed targets, as the light can be seen from both sides. The system will thus respond to both the shown movement and mirrored movement of those targets. 
 
 Wall Light | Standing Light | Ceiling Light
