@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/mipmap-xhdpi/ty.png",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/mipmap-xhdpi/ty.png"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/mipmap-xhdpi/ty.png",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/mipmap-xhdpi/ty.png"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/mipmap-xhdpi/pbody.png",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/mipmap-xhdpi/pbody.png"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/mipmap-xhdpi/mrpeabody.png",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/mipmap-xhdpi/mrpeabody.png"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/mipmap-xhdpi/pbody.png",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/mipmap-xhdpi/pbody.png"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/mipmap-xhdpi/mrpeabody.png",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/mipmap-xhdpi/mrpeabody.png"
+    }
+]

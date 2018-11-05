@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train9.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train9.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train3.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train3.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political3.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political3.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/navigation_drawer_item_view.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train10.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train10.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train8.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train8.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/colour_blue.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/colour_blue.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/accept_deny_dialog.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/accept_deny_dialog.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political2.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political2.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train1.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train1.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train4.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train4.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train7.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train7.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/answer_wrong.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/answer_wrong.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/colour_purple.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/colour_purple.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/action_drawer_peek_view.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/navigation_drawer_item_view.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/navigation_drawer_view.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/navigation_drawer_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train9.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train9.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/answer_correct.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/answer_correct.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train6.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train6.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train3.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train3.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/navigation_drawer_view.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/navigation_drawer_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political5.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political5.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/default_page.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/default_page.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train10.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train10.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train8.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train8.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/wearable_drawer_view.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/wearable_drawer_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train5.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train5.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political2.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political2.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/colour_green.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/colour_green.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train2.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train2.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/colour_yellow.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/colour_yellow.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political5.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political5.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/wearable_drawer_view.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/wearable_drawer_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train5.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train5.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/overlay_confirmation.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train6.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train6.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train4.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train4.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/colour_purple.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/colour_purple.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/answer_correct.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/answer_correct.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/action_drawer_item_view.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/action_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political6.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political6.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train7.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train7.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political4.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political4.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/overlay_confirmation.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/default_page.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/default_page.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political4.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political4.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political1.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political1.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/action_drawer_item_view.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/action_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/colour_yellow.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/colour_yellow.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train1.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train1.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/colour_green.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/colour_green.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political3.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political3.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/colour_blue.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/colour_blue.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political6.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political6.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/accept_deny_dialog.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/accept_deny_dialog.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/answer_wrong.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/answer_wrong.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/action_drawer_peek_view.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/layout/action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/train2.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/train2.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/layout/political1.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/layout/political1.xml"
+    }
+]

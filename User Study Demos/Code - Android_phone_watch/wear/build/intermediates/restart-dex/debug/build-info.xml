@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="280dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="19323162131849"
+    token="7734752947311134415"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="841" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="445" />
+    <task
+        name="verifier"
+        duration="110" />
+
+    <artifact
+        location="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/outputs/apk/wear-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="19323162131849"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/outputs/apk/wear-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

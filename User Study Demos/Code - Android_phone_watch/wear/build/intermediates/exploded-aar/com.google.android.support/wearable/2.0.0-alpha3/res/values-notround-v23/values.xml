@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- third_party/java_src/android_libs/android_wear/wearable_support/java/android/support/wearable/res/values-notround/dimens.xml -->
+<eat-comment/>
+<dimen name="diag_button_padding_bottom">8dp</dimen>
+<dimen name="diag_button_padding_horizontal">16dp</dimen>
+<dimen name="diag_button_size">44dp</dimen>
+<dimen name="diag_preferred_padding">8dp</dimen>
+</resources>

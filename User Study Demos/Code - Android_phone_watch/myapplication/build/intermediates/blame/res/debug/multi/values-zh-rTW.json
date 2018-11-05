@@ -1,0 +1,570 @@
+[
+    {
+        "outputFile": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 4,
+                    "endColumn": 10,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 337,
+                        "endLine": 6,
+                        "endColumn": 10,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endLine": 7,
+                    "endColumn": 10,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 585,
+                        "endLine": 9,
+                        "endColumn": 10,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endLine": 10,
+                    "endColumn": 10,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 838,
+                        "endLine": 12,
+                        "endColumn": 10,
+                        "endOffset": 1096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endLine": 13,
+                    "endColumn": 10,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1097,
+                        "endLine": 15,
+                        "endColumn": 10,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endLine": 16,
+                    "endColumn": 10,
+                    "endOffset": 1345
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1347,
+                        "endLine": 18,
+                        "endColumn": 10,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1350,
+                    "endLine": 19,
+                    "endColumn": 10,
+                    "endOffset": 1602
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1602,
+                        "endLine": 21,
+                        "endColumn": 10,
+                        "endOffset": 1862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1607,
+                    "endColumn": 102,
+                    "endOffset": 1705
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 287,
+                        "endColumn": 98,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1710,
+                    "endColumn": 159,
+                    "endOffset": 1865
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 386,
+                        "endColumn": 159,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1870,
+                    "endColumn": 116,
+                    "endOffset": 1982
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 546,
+                        "endColumn": 112,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1987,
+                    "endColumn": 103,
+                    "endOffset": 2086
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 659,
+                        "endColumn": 99,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2091,
+                    "endColumn": 165,
+                    "endOffset": 2252
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 759,
+                        "endColumn": 165,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2257,
+                    "endColumn": 117,
+                    "endOffset": 2370
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 925,
+                        "endColumn": 113,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2375,
+                    "endColumn": 123,
+                    "endOffset": 2494
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1039,
+                        "endColumn": 119,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2499,
+                    "endColumn": 161,
+                    "endOffset": 2656
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 161,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2661,
+                    "endColumn": 168,
+                    "endOffset": 2825
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1159,
+                        "endColumn": 168,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2830,
+                    "endColumn": 102,
+                    "endOffset": 2928
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1328,
+                        "endColumn": 98,
+                        "endOffset": 1426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2933,
+                    "endColumn": 159,
+                    "endOffset": 3088
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1427,
+                        "endColumn": 159,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3093,
+                    "endColumn": 116,
+                    "endOffset": 3205
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1587,
+                        "endColumn": 112,
+                        "endOffset": 1699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3210,
+                    "endColumn": 160,
+                    "endOffset": 3366
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1700,
+                        "endColumn": 160,
+                        "endOffset": 1860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3371,
+                    "endColumn": 137,
+                    "endOffset": 3504
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1861,
+                        "endColumn": 133,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3509,
+                    "endColumn": 85,
+                    "endOffset": 3590
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1995,
+                        "endColumn": 81,
+                        "endOffset": 2076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3595,
+                    "endColumn": 86,
+                    "endOffset": 3677
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2077,
+                        "endColumn": 82,
+                        "endOffset": 2159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3682,
+                    "endColumn": 102,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2160,
+                        "endColumn": 98,
+                        "endOffset": 2258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endColumn": 89,
+                    "endOffset": 3870
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1863,
+                        "endColumn": 85,
+                        "endOffset": 1948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3875,
+                    "endColumn": 75,
+                    "endOffset": 3946
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1949,
+                        "endColumn": 71,
+                        "endOffset": 2020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3951,
+                    "endColumn": 71,
+                    "endOffset": 4018
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 2021,
+                        "endColumn": 67,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4023,
+                    "endColumn": 80,
+                    "endOffset": 4099
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 2089,
+                        "endColumn": 76,
+                        "endOffset": 2165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4104,
+                    "endColumn": 167,
+                    "endOffset": 4267
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 2166,
+                        "endColumn": 171,
+                        "endOffset": 2337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4272,
+                    "endColumn": 173,
+                    "endOffset": 4441
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-zh-rTW/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 2338,
+                        "endColumn": 177,
+                        "endOffset": 2515
+                    }
+                }
+            }
+        ]
+    }
+]

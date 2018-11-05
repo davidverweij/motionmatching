@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "312264022278",
+    "project_id": "firebase-shareddisplay"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312264022278:android:f1aa43e27e714917",
+        "android_client_info": {
+          "package_name": "com.example.davidverweij.shareddisplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuEO5g5B_GCcVJ-ViYQYILPZMHbKKLOhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

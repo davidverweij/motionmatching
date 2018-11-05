@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- third_party/java_src/android_libs/android_wear/wearable_support/java/android/support/wearable/res/values-w240dp/dimens_percent.xml -->
+<eat-comment/>
+<dimen name="screen_percentage_05">12dp</dimen>
+<dimen name="screen_percentage_10">24dp</dimen>
+<dimen name="screen_percentage_12">28.8dp</dimen>
+<dimen name="screen_percentage_15">36dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

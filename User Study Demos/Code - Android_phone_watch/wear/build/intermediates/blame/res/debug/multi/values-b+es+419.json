@@ -1,0 +1,492 @@
+[
+    {
+        "outputFile": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+es+419/values-b+es+419.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 4,
+                    "endColumn": 10,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 339,
+                        "endLine": 6,
+                        "endColumn": 10,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endLine": 7,
+                    "endColumn": 10,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 589,
+                        "endLine": 9,
+                        "endColumn": 10,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endLine": 10,
+                    "endColumn": 10,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 842,
+                        "endLine": 12,
+                        "endColumn": 10,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endLine": 13,
+                    "endColumn": 10,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1101,
+                        "endLine": 15,
+                        "endColumn": 10,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endLine": 16,
+                    "endColumn": 10,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1356,
+                        "endLine": 18,
+                        "endColumn": 10,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endLine": 19,
+                    "endColumn": 10,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1616,
+                        "endLine": 21,
+                        "endColumn": 10,
+                        "endOffset": 1878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 92,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1879,
+                        "endColumn": 88,
+                        "endOffset": 1967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endColumn": 81,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1968,
+                        "endColumn": 77,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 72,
+                    "endOffset": 1864
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 2046,
+                        "endColumn": 68,
+                        "endOffset": 2114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1869,
+                    "endColumn": 83,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 2115,
+                        "endColumn": 79,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1953,
+                    "endColumn": 167,
+                    "endOffset": 2116
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 2195,
+                        "endColumn": 171,
+                        "endOffset": 2366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2121,
+                    "endColumn": 173,
+                    "endOffset": 2290
+                },
+                "from": {
+                    "file": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 2367,
+                        "endColumn": 177,
+                        "endOffset": 2544
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+es+419/values-b+es+419.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 4,
+                    "endColumn": 10,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 339,
+                        "endLine": 6,
+                        "endColumn": 10,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endLine": 7,
+                    "endColumn": 10,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 589,
+                        "endLine": 9,
+                        "endColumn": 10,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endLine": 10,
+                    "endColumn": 10,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 842,
+                        "endLine": 12,
+                        "endColumn": 10,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endLine": 13,
+                    "endColumn": 10,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1101,
+                        "endLine": 15,
+                        "endColumn": 10,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endLine": 16,
+                    "endColumn": 10,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1356,
+                        "endLine": 18,
+                        "endColumn": 10,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endLine": 19,
+                    "endColumn": 10,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1616,
+                        "endLine": 21,
+                        "endColumn": 10,
+                        "endOffset": 1878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 92,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1879,
+                        "endColumn": 88,
+                        "endOffset": 1967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endColumn": 81,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1968,
+                        "endColumn": 77,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 72,
+                    "endOffset": 1864
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 2046,
+                        "endColumn": 68,
+                        "endOffset": 2114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1869,
+                    "endColumn": 83,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 2115,
+                        "endColumn": 79,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1953,
+                    "endColumn": 167,
+                    "endOffset": 2116
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 2195,
+                        "endColumn": 171,
+                        "endOffset": 2366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2121,
+                    "endColumn": 173,
+                    "endOffset": 2290
+                },
+                "from": {
+                    "file": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/values-b+es+419/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 2367,
+                        "endColumn": 177,
+                        "endOffset": 2544
+                    }
+                }
+            }
+        ]
+    }
+]

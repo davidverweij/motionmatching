@@ -1,0 +1,68 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:2:5-40
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:3:5-64
+	android:name
+		ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:3:19-61
+application
+ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/AndroidManifest.xml:4:5-19
+	android:label
+		ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:5:9-41
+	android:supportsRtl
+		ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:5:42-68
+	android:allowBackup
+		ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:4:18-44
+	android:icon
+		ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:4:45-79
+	android:theme
+		ADDED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml:6:9-59
+uses-sdk
+INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:support-v4:24.0.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/AndroidManifest.xml:3:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/davidverweij/Google Drive/M2/Android Wear/Correlate_Channel/myapplication/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:20:20-65

@@ -1,0 +1,7 @@
+#Sun Apr 23 11:45:01 CEST 2017
+base.0=/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3884ea50a12cb341aec13748b3532d904b283871
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54a633d9f4356db161766f36ed4f97cbee97a797/classes.dex
+base.1=/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54a633d9f4356db161766f36ed4f97cbee97a797
+file.0=/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3884ea50a12cb341aec13748b3532d904b283871/classes.dex

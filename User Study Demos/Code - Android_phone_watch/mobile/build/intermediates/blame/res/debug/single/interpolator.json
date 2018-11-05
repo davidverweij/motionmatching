@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/mobile/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/mobile/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/davidverweij/stack/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

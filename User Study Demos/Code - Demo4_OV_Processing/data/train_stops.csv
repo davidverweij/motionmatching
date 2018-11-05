@@ -1,0 +1,40 @@
+id,time,destination,stops,train,rail
+0,1,Maastricht,via Weert - Roermond - Sittard,Intercity,1
+Eindhoven — Weert — Roermond — Sittard — Maastricht
+xx:01 — xx:17-xx:17 — xx:31-xx:33 — xx:48-xx:50 — x1:04
+
+1,2,Schagen,via s’Hertogenbosch - Utrecht C - Amsterdam CS,Intercity,5
+Eindhoven — ’s-Hertogenbosch — Utrecht Centraal — Amsterdam Amstel — Amsterdam Centraal — Amsterdam Sloterdijk — Zaandam — Castricum — Alkmaar — Alkmaar Noord — Heerhugowaard — Schagen
+xx:02 — xx:21-xx:23 — xx:51-xx:53 — x1:12-x1:12 — x1:20-x1:24 — x1:29-x1:30 — x1:36-x1:36 — x1:49—x1:49 — x1:58-x2:06 — x2:09-x2:09 — x2:13-x2:14 — x2:23
+
+2,3,Deurne,via Helmond,Sprinter,3
+Eindhoven — Helmond Brandevoort - Helmond ’t Hout - Helmond — Helmond Brouwhuis — Deurne
+xx:03 — xx:10-xx:10 — xx:13-xx:13 — xx:16-xx:16 — xx:20-xx:20 — xx:26
+
+3,5,s’Hertogenbosch,via Boxtel,Sprinter,6
+Eindhoven — Eindhoven Strijp-S — Best — Boxtel — Vught
+xx:05 — xx:08-xx:08 — xx:15-xx:15 —- xx:22 -xx:29 — xx:35-xx:35 — xx:40
+
+4,9,Weert,,Sprinter,1
+Eindhoven — Geldrop — Heeze — Maarheeze — Weert
+xx:09 — xx:15-xx:15 — xx:19-xx:19 — xx:26-xx:26 — xx:32
+
+5,14,Breda,via Tilburg,Intercity,5
+Eindhoven — Tilburg — Breda
+xx:14 — xx:35-xx:38 — xx:51
+
+6,17,Schiphol Airport,via s’Hertogenbosch - Utrecht C - Bijlmer ArenA,Intercity,6
+Eindhoven — ’s-Hertogenbosch — Utrecht Centraal — Amsterdam Bijlmer ArenA — Amsterdam Zuid
+xx:17 — xx:35-xx:37 — x1:06-x1:11 — x1:28-x1:28 — x1:33-x1:35
+
+7,19,Venlo,via Helmond,Intercity,1b
+Eindhoven — Helmond — Deurne — Horst-Sevenum — Blerick — Venlo
+xx:19 — xx:28-xx:28 — xx:34-xx:34 — xx:45-xx45 — xx52-xx:54 — xx:58
+
+8,21,Heerlen,via Weert - Roermond -  Sittard,Intercity,1a
+Eindhoven — Weert — Roermond — Sittard - Heerlen
+xx:21 — xx:37-xx:37 — xx:51-xx:53 — x1:08-x1:11 — x1:26
+
+9,21,Tilburg Universiteit,via Boxtel - Tilburg,Sprinter,4
+Eindhoven — Eindhoven Strijp-S — Best — Boxtel — Oisterwijk — Tilburg
+xx:21 — xx:24-xx:24 — xx:30-xx:30 — xx:37-xx:38 — xx:46-xx:46 — xx:52

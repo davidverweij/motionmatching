@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WaveTrace</string>
+    <string name="title_activity_main">WaveTrace</string>
+    <string name="running">Running</string>
+    <string name="noUDP">No UDP </string>
+    <string name="noWIFI">No Wi-Fi</string>
+</resources>

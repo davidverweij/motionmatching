@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_b6f6a28f62bf1d58441eba75f1f2099b17277b71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_cd86cc273b6d85a5f714c45ed924173bb93570cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/libs/jmdns-3.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b7b63ebcbb92c3d27dc323f5c584a257c7698f9b">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/2/jmdns-3.5.1_9b504de1527e768b4c6c6d2a57012e03a87ff114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_a3ada30b7ad3ab6842b44d2b11853a86753d0baf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_cf84dad5b7809e470a68e1112552c9164848745b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_f8516949a57ede31855cb0f82df2755ca9c57252/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_8d0c1a9927197bb4bfa20e3414843de3295f78f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_b05312e0fc1e34f785b2c765b2aea8b59ca8e4e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_96395f44703096a89f8e9dd49b02d89c84cb3fae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_94970a8fa757c43e604ba4d3d4b613ec50058452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_0f604ecac674fd6213b8e781b8151dd40e5a9972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_52e9ce51da514d8491793d341683faf4b0eae074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_39bc4eff684126ca10cc29737068e6b904c75726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_01392c14186fcb6520c3b3117c19a2b2cfa92c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_62e3c4fc73af3c27e873ff5e976f5f92cb493196/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_f731a54da19b16dcb54fb0cb9f818ddebd8be1d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5e225afc7f42be8f6c125fb65ae57009d9872be1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_9085df41bef052d00ccae931a36e4c5d43388a35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9c26522da9054de5d68e2b831331b784eaf6340">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99605aff222aa43e29d8b5ac05c91c22d22e3987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_56f54f954272f9d09d3902e37111b4f69f257589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_0610a9773eab243fdfb55793c4eb39d2ef83a338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_c32809fdf6371fb028a394d74bbf2b80f7e4022f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_5270351dde47b650912e2fef3bfb1d500713c11a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_013050c2c962fa3b57e64f794477fbe3d6f2ab79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="356a62b2ed8ea25c7ae341aca8c71d34434e9d57">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c7c19227941d24c9a4c1864c741a111811ac1705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-alpha3_941df463104ca182a7c1042ced1f1a2049cbd19a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_af4570b85e9c8470d7b27bd1a0bb2babf76b500d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_b49645a2222688fbeb737b8883c6e343c6197cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_f886f56227b05c8430f37850f33080ae78f60b04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_010210f2feee64ee2fb87449143f297bb2426788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_7fb27b87b47fdd6a177ad21397b965f8fc3157f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_103a8ed6490d29fb0ebe34aa1c67e49f1df5aa49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9088010c5d96e872eb7dda7bc007f67a2067cede/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="83fc854bb76e17d9baac8c9ff6ce94c03b2fba96">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54a633d9f4356db161766f36ed4f97cbee97a797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="578b863456eaf44025325bd1c369c09d2cbaa078">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3884ea50a12cb341aec13748b3532d904b283871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_0a0ebbca5feefa7db8fd8adaabb96da4eaeba1a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_a0b46bfd36120c7a417c0c42245381538eff5cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_b72425526ea6c653027d60b1e24a950d795cf55e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_a701fce41110741f5b0dd653cdd0304dba205151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_6abcac76f7138b55e421b561cad674568e3a9330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_67be1a147cecae12fb967e891bd6908dea5995c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_92ef74129d1bfb37dc26a9d6d6731db47ccddaa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_8837a02e86341148f95ac0987423dc8961396912/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_fc9c0c9dcbabd8ccdaad19de81afe0fc945cc9dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_357a4e98eaa8193e32da9d1126889feba17ebdb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_00f5fef953ec4d08c071a2dac610804ddb8a3542/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_0e488734eb2d9ed6e8d5c5f14844883e76ca8b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_3e4700f8b03927b84c4dee38146616c25bb4a9ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_d183fd2224fa23aa5069cd1fe801b1afac91b65f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_2def5ca98eb853d62fced6da8995cb7b9c2a3e08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_b068e263f3db2b180f1eac1dd418d7ae2e9a156d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_1f69ca0cb48566d2f0ad9ce04045f3d9a4e661b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_7bb5d1f02fba371a1289018735d26159382f9863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_7fa2172bcaf1e47f17a3260409444cc51c1c0340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_7d9b57f87374ff24f0d2de8c59fc608c4e959799/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_1951aa3a3f2e8bdc58ae41142c3f392f74649f66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_745dee8199863a934a99d33f80f67146b90ea2fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_ca99a8b8400d00bf44970f599146d5a4c5e8c812/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_a3cd7ac26990fec4f27fa035e22bf103d7fbbccb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_04c921f52834992ff34227e0708e2a40afe1f4cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_2816af502e7127694012799cad7c0b29dbbb5917/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_5a26bc20439b5e59732da1706e13a16614d3d24d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_c5a1a3ace810c70a57946799ec46b7f7fde37503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_e4a95deb46fbc8d4cbac1cba71d2fc8c398eaa65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_65a00eeb007b6c4194b7aba002cae662fcda5aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_a1f1bac0b6f9b8f6cadf8886583538bea1a5cf8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_18ca8ebde41ed5fb78bb99c5ab3a88dc4a8a57d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_be2fbdc663aba533e8158da5f3646ea170283ace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_49d4f939db8b467031de5ed2d02fd75efc0c12cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_df8432d13f00532342a5de7c6bee9694ae0aef96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_cc0dd7be337fec367e2dfb98ac992048d3367412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_3609bd8031a63639bf33432144238f3f97f2e6e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_1d0c8745f045920032b924f1d0acc4da443ecd9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_9022268a68b51cd069c445f8186fa001f58f52a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_de034da60cd0dfcbe8d523b2f372bf02f7fd04ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_765402cb9d6897086edfbd1bec5916afa0e0e90b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b3abadd5360a2a6b63c113fdb26523f83638cbed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_7f1165915e41f29c458bfdc8c5aed133fff7262d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_e152d381cdee0176c500d38a7f19ef3c3eef5dd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_ad74726c2c5e575e690e83080f20d76eed0f11db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_cb14da556548a058a8a5c4777e233ad8b23b0d52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_ab994730dc37f40252b1e276e1df829e5eb792d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_febeec6b057dc3817989918cf558ecd7b5e71959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_9c4657c88bc8b618fdc0ac6094fe029a7d8e65c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/davidverweij/Google Drive/M2/Android Wear/SharedDisplay/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_8da477421bbf14e110454b2353b4ed823eb238b8/classes.dex" />
+    </item>
+
+</items>

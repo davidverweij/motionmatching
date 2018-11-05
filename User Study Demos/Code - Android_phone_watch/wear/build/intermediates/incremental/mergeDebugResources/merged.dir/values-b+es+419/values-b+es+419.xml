@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals formatted="false" msgid="6044628401320465106" name="time_difference_short_days"><item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> d</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_DAYS_0">%d</ns1:g> d</item>
+</plurals>
+    <plurals formatted="false" msgid="9209554600411186949" name="time_difference_short_hours"><item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> h</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_HOURS_0">%d</ns1:g> h</item>
+</plurals>
+    <plurals formatted="false" msgid="6799968572793078120" name="time_difference_short_minutes"><item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> m</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_0">%d</ns1:g> m</item>
+</plurals>
+    <plurals formatted="false" msgid="7958173734825557821" name="time_difference_words_days"><item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> días</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_DAYS_0">%d</ns1:g> día</item>
+</plurals>
+    <plurals formatted="false" msgid="6659708596739126724" name="time_difference_words_hours"><item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> horas</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_HOURS_0">%d</ns1:g> hora</item>
+</plurals>
+    <plurals formatted="false" msgid="5776851900234724977" name="time_difference_words_minutes"><item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> min</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_0">%d</ns1:g> min</item>
+</plurals>
+    <string msgid="4431314454967965046" name="dismiss_overlay_button_label">"Salir"</string>
+    <string msgid="4031765397716487527" name="generic_cancel">"Cancelar"</string>
+    <string msgid="9120485112909311969" name="generic_yes">"Sí"</string>
+    <string msgid="4600747107629098989" name="time_difference_now">"ahora"</string>
+    <string msgid="3432160628957797741" name="time_difference_short_days_and_hours">"<ns1:g id="SHORT_DAYS">%1$s</ns1:g> <ns1:g id="SHORT_HOURS">%2$s</ns1:g>"</string>
+    <string msgid="4219196550677438545" name="time_difference_short_hours_and_minutes">"<ns1:g id="SHORT_HOURS">%1$s</ns1:g> <ns1:g id="SHORT_MINUTES">%2$s</ns1:g>"</string>
+</resources>

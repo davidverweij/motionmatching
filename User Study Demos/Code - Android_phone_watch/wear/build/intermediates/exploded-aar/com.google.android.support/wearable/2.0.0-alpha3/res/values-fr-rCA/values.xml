@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/arm-linux-androideabi-4.8-bionic-libcxx-armv7a-opt/genfiles/third_party/java_src/android_libs/android_wear/wearable_support/java/android/support/wearable/res/values-fr-rCA/strings.xml -->
+<eat-comment/>
+<plurals name="time_difference_short_days" formatted="false" msgid="6044628401320465106"><item quantity="one"><xliff:g id="NUMBER_OF_DAYS_1">%d</xliff:g> j</item>
+<item quantity="other"><xliff:g id="NUMBER_OF_DAYS_1">%d</xliff:g> j</item>
+</plurals>
+<plurals name="time_difference_short_hours" formatted="false" msgid="9209554600411186949"><item quantity="one"><xliff:g id="NUMBER_OF_HOURS_1">%d</xliff:g> h</item>
+<item quantity="other"><xliff:g id="NUMBER_OF_HOURS_1">%d</xliff:g> h</item>
+</plurals>
+<plurals name="time_difference_short_minutes" formatted="false" msgid="6799968572793078120"><item quantity="one"><xliff:g id="NUMBER_OF_MINUTES_1">%d</xliff:g> m</item>
+<item quantity="other"><xliff:g id="NUMBER_OF_MINUTES_1">%d</xliff:g> m</item>
+</plurals>
+<plurals name="time_difference_words_days" formatted="false" msgid="7958173734825557821"><item quantity="one"><xliff:g id="NUMBER_OF_DAYS_1">%d</xliff:g> jour</item>
+<item quantity="other"><xliff:g id="NUMBER_OF_DAYS_1">%d</xliff:g> jours</item>
+</plurals>
+<plurals name="time_difference_words_hours" formatted="false" msgid="6659708596739126724"><item quantity="one"><xliff:g id="NUMBER_OF_HOURS_1">%d</xliff:g> heure</item>
+<item quantity="other"><xliff:g id="NUMBER_OF_HOURS_1">%d</xliff:g> heures</item>
+</plurals>
+<plurals name="time_difference_words_minutes" formatted="false" msgid="5776851900234724977"><item quantity="one"><xliff:g id="NUMBER_OF_MINUTES_1">%d</xliff:g> min</item>
+<item quantity="other"><xliff:g id="NUMBER_OF_MINUTES_1">%d</xliff:g> min</item>
+</plurals>
+<string name="dismiss_overlay_button_label" msgid="4431314454967965046">"Quitter"</string>
+<string name="generic_cancel" msgid="4031765397716487527">"Annuler"</string>
+<string name="generic_yes" msgid="9120485112909311969">"Oui"</string>
+<string name="time_difference_now" msgid="4600747107629098989">"maint."</string>
+<string name="time_difference_short_days_and_hours" msgid="3432160628957797741">"<xliff:g id="SHORT_DAYS">%1$s</xliff:g> <xliff:g id="SHORT_HOURS">%2$s</xliff:g>"</string>
+<string name="time_difference_short_hours_and_minutes" msgid="4219196550677438545">"<xliff:g id="SHORT_HOURS">%1$s</xliff:g> <xliff:g id="SHORT_MINUTES">%2$s</xliff:g>"</string>
+</resources>

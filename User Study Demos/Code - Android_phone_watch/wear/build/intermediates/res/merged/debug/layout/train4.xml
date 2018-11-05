@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/ambient_mode_text">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:text="to Den Bosch"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5"
+            android:textColor="#12866D"
+            android:textAlignment="center"
+            android:layout_weight="1.29"
+            android:textStyle="normal|bold"
+            android:textAllCaps="false"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:paddingLeft="10dp"
+            android:layout_marginBottom="5dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_weight="0.1"
+            android:layout_height="match_parent"
+            android:background="#12866D">
+
+            <TextView
+            android:text="12:45"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/currentTime"
+            android:textColor="@color/ambient_mode_text"
+                android:gravity="right"
+                android:textAllCaps="false"
+            android:textSize="10sp"
+                android:layout_marginTop="5dp"
+                android:textAlignment="center"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp" />
+
+            <TextView
+                android:text="now"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/currentTimesub"
+                android:textColor="@color/ambient_mode_text"
+                android:gravity="right"
+                android:textAllCaps="false"
+                android:textSize="6sp"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+        <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="20dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/adjustables">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="30dp"
+                    android:id="@+id/adjust1"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:layout_marginTop="10dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/adjust2"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/adjust3"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/adjust4"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/adjust5"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:textAlignment="center" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/adjust6"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/adjust7"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/adjust16"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/adjust27"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="30dp"
+                    android:id="@+id/adjust9"
+                    android:textSize="10sp"
+                    android:textColor="@color/dark_red"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/times">
+
+                <TextView
+                    android:text="12:55"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="30dp"
+                    android:id="@+id/time1"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center"
+                    android:layout_marginTop="10dp" />
+
+                <TextView
+                    android:text="12:50"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/time2"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="12:55"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/time3"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="12:50"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/time4"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="12:55"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/time5"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="12:50"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/time6"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="12:55"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/time7"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="12:50"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/time8"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="12:55"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="15dp"
+                    android:id="@+id/time9"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:text="12:55"
+                    android:layout_width="match_parent"
+                    android:gravity="left|center"
+                    android:layout_height="30dp"
+                    android:id="@+id/time10"
+                    android:textSize="10sp"
+                    android:textColor="#12866D"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center"
+                    android:layout_marginTop="20dp" />
+
+
+            </LinearLayout>
+
+
+            <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="15dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            >
+            <View
+                android:orientation="vertical"
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="7dp"
+                android:background="#12866D"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="25dp">
+
+            </View>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="0dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:src="@drawable/dot"
+                    android:layout_marginTop="10dp"
+                    android:paddingTop="11dp"
+                    android:paddingBottom="11dp" />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:src="@drawable/dot"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="11dp"
+                    android:paddingBottom="11dp" />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:src="@drawable/dot"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="11dp"
+                    android:paddingBottom="11dp" />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:src="@drawable/dot"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="11dp"
+                    android:paddingBottom="11dp" />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:src="@drawable/dot"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="11dp"
+                    android:paddingBottom="11dp" />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:src="@drawable/dot"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="11dp"
+                    android:paddingBottom="11dp" />
+
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp">
+
+                <TextView
+                    android:text="Eindhoven"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:gravity="left|center"
+                    android:id="@+id/textViewLoc1"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="10dp"
+                    android:textSize="12sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+
+                <TextView
+                    android:text="Spoor 6"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:gravity="right|center"
+                    android:id="@+id/textViewLoc1b"
+                    android:textColor="@color/black_54p"
+                    android:textSize="8sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+
+                <TextView
+                    android:text="Eindh. Strijp-S"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:gravity="left|center"
+                    android:id="@+id/textViewLoc2"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="20dp"
+                    android:textSize="10sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+
+                <TextView
+                    android:text="Spoor 3b"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:gravity="right|center"
+                    android:id="@+id/textViewLoc2b"
+                    android:textColor="@color/black_54p"
+                    android:textSize="8sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+                <TextView
+                    android:text="Best"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:gravity="left|center"
+                    android:id="@+id/textViewLoc3"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="20dp"
+                    android:textSize="12sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+                <TextView
+                    android:text="Spoor 1"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:gravity="right|center"
+                    android:id="@+id/textViewLoc3b"
+                    android:textColor="@color/black_54p"
+                    android:textSize="8sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+                <TextView
+                    android:text="Boxtel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:gravity="left|center"
+                    android:id="@+id/textViewLoc4"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="20dp"
+                    android:textSize="12sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+                <TextView
+                    android:text="Spoor 3"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:gravity="right|center"
+                    android:id="@+id/textViewLoc4b"
+                    android:textColor="@color/black_54p"
+                    android:textSize="8sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+
+                <TextView
+                    android:text="Vught"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:gravity="left|center"
+                    android:id="@+id/textViewLoc5"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="20dp"
+                    android:textSize="12sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+                <TextView
+                    android:text="Spoor 3"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:gravity="right|center"
+                    android:id="@+id/textViewLoc5b"
+                    android:textColor="@color/black_54p"
+                    android:textSize="8sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+
+                <TextView
+                    android:text="Den Bosch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:gravity="left|center"
+                    android:id="@+id/textViewLoc6"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="20dp"
+                    android:textSize="12sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+                <TextView
+                    android:text="Spoor 1"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:gravity="right|center"
+                    android:id="@+id/textViewLoc6b"
+                    android:textColor="@color/black_54p"
+                    android:textSize="8sp"
+                    android:fontFamily="sans-serif"
+                    android:textStyle="normal|italic" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

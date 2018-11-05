@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/white"
+    >
+
+
+    <ImageView
+        android:src="@drawable/ppwatch1"
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_weight="1.0"
+        android:layout_height="match_parent" />
+
+    <TextView android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:text="Your party"
+        android:textAppearance="@style/TextAppearance.WearDiag.Button"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textAlignment="center"
+        android:paddingTop="10dp" />
+
+
+
+
+</RelativeLayout>
