@@ -4,6 +4,12 @@ Motion Matching is a gestural input technique that requires users to track a mov
 
 ---
 
+## User Study Demos
+
+One folder contains source code for our initial Android app to measure and send movement data to our program. This is an older version, and we advice to look at the Android Standalone Wear app to use in your project. Note that this requires an Android Wear 2 watch. The User Study Demos also include the Processing sketches to rebuild our 4 screen-based demos - that each integrate motion matching interaction differently.
+
+---
+
 ## Interactive Lamps
 
 Our interactive lamp designs are operating as follows (feel free to adapt): Each lamp contains one ESP8266 – a Wi-Fi enabled microcontroller programmed with the Arduino IDE [2], that is listening to a Raspberry PI 3.0 (or computer) on a local network. The Raspberry PI runs a Java Application in Processing [3]. The user wears an Android smartwatch (Huawai Watch 2 in our setup), running Android Wear 2.0 or higher. The version is of importance, as since 2.0 the smart watch no longer requires a companion phone to communicate over Wi-Fi. Here, the watch sends the orientation of the user’s hand (using Android's built-in orientation sensor) more than 150 times a second over the Wi-Fi connection (using an UDP protocol). The function of the Raspberry PI is threefold: it receives and stores all user movements that have been send by the Android Smartwatch; it continuously sends commands to each of the lamps (over Wi-Fi) to ensure their correct state; and lastly it continuously runs a simulation of all connected lamps, and correlates the simulation with the incoming movement data, and changes any states upon successful interaction. The lamps have only one microcontroller, though share the 'data' signal using interconnected wires (except for the wall-lamp).
@@ -37,7 +43,7 @@ Alternatively, choose IP addresses and alter the Processing, Arduino and Android
 
 ## Elaborate Setup the hardware for the demo
 
-![Scheme](Images/Illustrations-03.png)
+![Scheme](Interactive Lights/Images/Illustrations-03.png)
 > Figure: The Android smartwatch – running a custom app for Android Wear 2.0 – continuously sends ‘yaw’ and ‘pitch’ data (i.e. movement data) to the Raspberry PI over Wi-Fi. The raspberry continuously simulates the lights and states, and send the appropriate LED settings at 40Hz over Wi-Fi to the individual lights, which will set the LEDs accordingly. The Raspberry PI correlates the incoming movement data and act upon interaction by changing the simulated states, which in turn is communicated to the lights.
 
 1. Use a dedicated router for a local network
@@ -55,8 +61,8 @@ Alternatively, choose IP addresses and alter the Processing, Arduino and Android
 7. The Android Watch only sends motions data. The lamps only receive instructions. The Processing on the Raspberry / Server computer does all the calculations and simualations. Look there for tweaking and such.
 
 Current Implementations of Interactions:
-![Interactions](Images/Illustrations-06.png)
-> Figure: Figure 6. If no particular light has been selected, all lights show their ‘initial’ target. Each target that is displayed differs in phase which allows for distinction based on movement. For clarity, only one module of the standing (middle) and ceiling light (right) is shown. Take note that by design, the standing light (middle) has a ‘virtual’ mirrored target for each of its displayed targets, as the light can be seen from both sides. The system will thus respond to both the shown movement and mirrored movement of those targets. 
+![Interactions](Interactive Lights/Images/Illustrations-06.png)
+> Figure: If no particular light has been selected, all lights show their ‘initial’ target. Each target that is displayed differs in phase which allows for distinction based on movement. For clarity, only one module of the standing (middle) and ceiling light (right) is shown. Take note that by design, the standing light (middle) has a ‘virtual’ mirrored target for each of its displayed targets, as the light can be seen from both sides. The system will thus respond to both the shown movement and mirrored movement of those targets. 
 
 Wall Light | Standing Light | Ceiling Light
 ---------- | -------------- | --------------
@@ -73,4 +79,5 @@ file.
 
 ## References
 [1] David Verweij, Augusto Esteves, Vassilis Javed Khan, and Saskia Bakker. 2017. WaveTrace: Motion Matching Input using Wrist-Worn Motion Sensors. In CHI ’17 Extended Abstracts on Human Factors in Computing Systems (CHI EA ’17). ACM, Denver, CO, USA. DOI: http://dx.doi.org/10.1145/3027063.3053161
+
 [2] https://www.arduino.cc/en/Main/Software
