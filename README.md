@@ -8,6 +8,8 @@ This repository includes:
 
 *Disclaimer: Our experience with git and repositorties is limited - apologies for the messy or incorect use. We welcome continue our work, and implement our efforts in their own projects.*
 
+*License: MIT License*
+
 # Motion Matching
 
 Motion Matching is a gestural input technique that requires users to track a moving target; a physical or digital target, as displayed by a product or system. Rather than performing a pre-defined sequence of movements from memory (a gesture), users need only to keep matching the (chosen) target’s movements. This project developed three interactive lamps based on the WaveTrace implementation [1]. Using an 9-DOF Inertial Measurement Unit (IMU) embedded in an Android Smartwatch, and RGBW LED strips, these lamps can display ‘general’ purpose lighting - which can be altered using the Motion Matching technique by following one of the coloured targets.
