@@ -1,16 +1,26 @@
-## Motion Matching
+# Summary
+
+This repository accompanies a research publication to TEI '19 - the 13th annual conference on tangible, embedded, and embodied interaction. Search for "Designing Motion Matching for Real-World Applications: Lessons from Realistic Deployments" (on for example https://dl.acm.org/) 
+
+This repository includes:
+- Processing(.org) sketches to run four screen-based interactive demos that use Motion Matching as input technique
+- Design, lasercut, Arduino and Android wear files to build and run three 'physical' interactive lights that can be controlled via an Android Wear 2.0 watch - also using Motion Matching as input technique. 
+
+*Disclaimer: Our experience with git and repositorties is limited - apologies for the messy or incorect use. We welcome continue our work, and implement our efforts in their own projects.*
+
+# Motion Matching
 
 Motion Matching is a gestural input technique that requires users to track a moving target; a physical or digital target, as displayed by a product or system. Rather than performing a pre-defined sequence of movements from memory (a gesture), users need only to keep matching the (chosen) target’s movements. This project developed three interactive lamps based on the WaveTrace implementation [1]. Using an 9-DOF Inertial Measurement Unit (IMU) embedded in an Android Smartwatch, and RGBW LED strips, these lamps can display ‘general’ purpose lighting - which can be altered using the Motion Matching technique by following one of the coloured targets.
 
 ---
 
-## User Study Demos
+# User Study Demos
 
 One folder contains source code for our initial Android app to measure and send movement data to our program. This is an older version, and we advice to look at the Android Standalone Wear app to use in your project. Note that this requires an Android Wear 2 watch. The User Study Demos also include the Processing sketches to rebuild our 4 screen-based demos - that each integrate motion matching interaction differently.
 
 ---
 
-## Interactive Lamps
+# Interactive Lamps
 
 Our interactive lamp designs are operating as follows (feel free to adapt): Each lamp contains one ESP8266 – a Wi-Fi enabled microcontroller programmed with the Arduino IDE [2], that is listening to a Raspberry PI 3.0 (or computer) on a local network. The Raspberry PI runs a Java Application in Processing [3]. The user wears an Android smartwatch (Huawai Watch 2 in our setup), running Android Wear 2.0 or higher. The version is of importance, as since 2.0 the smart watch no longer requires a companion phone to communicate over Wi-Fi. Here, the watch sends the orientation of the user’s hand (using Android's built-in orientation sensor) more than 150 times a second over the Wi-Fi connection (using an UDP protocol). The function of the Raspberry PI is threefold: it receives and stores all user movements that have been send by the Android Smartwatch; it continuously sends commands to each of the lamps (over Wi-Fi) to ensure their correct state; and lastly it continuously runs a simulation of all connected lamps, and correlates the simulation with the incoming movement data, and changes any states upon successful interaction. The lamps have only one microcontroller, though share the 'data' signal using interconnected wires (except for the wall-lamp).
 
